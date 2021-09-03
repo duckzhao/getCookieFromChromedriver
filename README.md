@@ -1,0 +1,2 @@
+# getCookieFromChromedriver
+使用chrome driver手动保存网页cookie到本地，主要用于应对许多无法逆向cookie，但又频繁需要更换cookie的网站，如tb
